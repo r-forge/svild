@@ -2,7 +2,7 @@
 \alias{SVILD-package}
 
 \docType{package}
-\title{Summaries of Variability of Irregularly spaced Longitudinal Data}
+\title{Summaries of Variability of Irregularly Spaced Longitudinal Data}
 \description{
 	This package summarize glucose variability of irregularly spaced surgical longitudinal
 	data and includes functions to create important indices of glucose variability such as

@@ -9,7 +9,7 @@
 \alias{summary}
 
 
-\title{Summaries of Variability of Irregularly spaced Longitudinal Data}
+\title{Summaries of Variability of Irregularly Spaced Longitudinal Data}
 \description{Read raw data into R and create a list to store all variables of patients}
 
 \usage{
